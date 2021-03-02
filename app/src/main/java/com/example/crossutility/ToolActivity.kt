@@ -23,7 +23,7 @@ class ToolActivity : AppCompatActivity() {
             recyclerView.layoutManager = LinearLayoutManager(this)
         else
             recyclerView.layoutManager = GridLayoutManager(this, 2)
-        recyclerView.adapter = ToolAdapter(this, cardList)
+        recyclerView.adapter = ToolAdapter(this, cardList, isLinearLayoutManager)
     }
 
     fun setIcon(item: MenuItem?){
