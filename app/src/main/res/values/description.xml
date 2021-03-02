@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="desc1">Turn On and Off your WiFi</string>
+    <string name="desc2">Call Anyone you want to</string>
+    <string name="desc3">Turn On and Off your Mobile Data</string>
+    <string name="desc4">Email Anyone you want to</string>
+    <string name="desc5">SMS Anyone you want to</string>
+</resources>

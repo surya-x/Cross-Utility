@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="options">
+        <item>WiFi</item>
+        <item>Call</item>
+    </string-array>
+</resources>
+
+<!--<resources>-->
+<!--    <string name="title1">WiFi</string>-->
+<!--    <string name="title2">Call</string>-->
+<!--    <string name="title3">Mobile Data</string>-->
+<!--    <string name="title4">Email</string>-->
+<!--</resources>-->

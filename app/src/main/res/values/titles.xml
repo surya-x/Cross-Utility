@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="title1">WiFi</string>
+    <string name="title2">Call</string>
+    <string name="title3">Mobile Data</string>
+    <string name="title4">Email</string>
+    <string name="title5">SMS</string>
+</resources>
