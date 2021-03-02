@@ -36,7 +36,7 @@ class ToolAdapter(private val context: Context,
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ToolViewHolder {
         val layout = LayoutInflater
             .from(parent.context)
-            .inflate(R.layout.item_view, parent, false)
+            .inflate(R.layout.item_view_linear, parent, false)
 
         if (viewType == 0)  Log.d("bug","hola")
         else if (viewType == 2) Log.d("bug","bola")
